@@ -5,7 +5,7 @@ Here are the technical tools and technologies we used to build your portfolio we
 Backend Technologies
 Flask - Python web framework for the server-side application
 Python 3 - Programming language for backend logic
-Gunicorn - WSGI HTTP server for running the Flask application
+Gunicorn - WSGI HTTP server for running the Flask application 
 Flask-Mail - Email functionality for the contact form
 Jinja2 - Template engine (comes with Flask) for dynamic HTML rendering
 Frontend Technologies
